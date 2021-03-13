@@ -72,7 +72,7 @@
 	url = ../android-support-headers.git
 [submodule "libc-shim"]
 	path = libc-shim
-	url = ../libc-shim.git
+	url = https://github.com/bylaws/libc-shim.git
 [submodule "mcpelauncher-linker"]
 	path = mcpelauncher-linker
 	url = ../mcpelauncher-linker.git
